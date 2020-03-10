@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#menufijo {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    background-color: #F190FF;
+    position: fixed;
+    height: 100px;
+    width: 520px;
+    margin-left: 33%;
+    z-index: 100;
+}
